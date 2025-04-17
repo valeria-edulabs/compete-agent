@@ -1,3 +1,5 @@
+import datetime
+
 import streamlit as st
 import plotly.graph_objects as go
 
@@ -9,6 +11,8 @@ st.title("Insights POC v2")
 
 # Initialize chat history
 if "messages" not in st.session_state:
+    st.session_state.thread_id = datetime.datetime.now().isoformat()
+    print('setting new threadid', st.session_state.thread_id)
     st.session_state.messages = []
     st.session_state.update({"explanation2plot": {}})
 
@@ -53,7 +57,7 @@ if prompt := st.chat_input("How salary raise affects performance?"):
     st.session_state.messages.append({"role": "user", "content": prompt})
 
     try:
-        llm_response, python_tool_result = invoke_llm(prompt)
+        llm_response, python_tool_result = invoke_llm(prompt, st.session_state.thread_id)
         last_msg = llm_response["messages"][-1].content
         # Display assistant response in chat message container
         with st.chat_message("assistant"):

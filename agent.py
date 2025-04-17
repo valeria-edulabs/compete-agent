@@ -50,7 +50,7 @@ agent = create_react_agent(
     checkpointer=memory
 )
 
-def invoke_llm(human_msg: str, thread_id: str="a1"):
+def invoke_llm(human_msg: str, thread_id):
     # before new call - set last_result type as text
     # it will be changed if tool will be called, but if tool won't be
     # called - it will remain text
