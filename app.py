@@ -59,12 +59,13 @@ if prompt := st.chat_input("How salary raise affects performance?"):
         with st.chat_message("assistant"):
             st.markdown(last_msg)
 
-            if python_tool_result.type == "plot":
-                st.plotly_chart(python_tool_result.result)
-                st.session_state.get("explanation2plot")[last_msg] = python_tool_result.result
-            elif python_tool_result.type == "table":
-                st.dataframe(python_tool_result.result)
-                st.session_state.get("explanation2plot")[last_msg] = python_tool_result.result
+            if python_tool_result:
+                if python_tool_result.type == "plot":
+                    st.plotly_chart(python_tool_result.result)
+                    st.session_state.get("explanation2plot")[last_msg] = python_tool_result.result
+                elif python_tool_result.type == "table":
+                    st.dataframe(python_tool_result.result)
+                    st.session_state.get("explanation2plot")[last_msg] = python_tool_result.result
 
         # Add assistant response to chat history
         st.session_state.messages.append({"role": "assistant", "content": last_msg})
