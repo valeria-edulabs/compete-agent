@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 from agent import invoke_llm
 import pandas as pd
 
-st.title("Insights POC")
+st.title("Insights POC v2")
 
 
 # Initialize chat history
