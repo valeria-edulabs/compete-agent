@@ -62,6 +62,7 @@ if prompt := st.chat_input("How salary raise affects performance?"):
         # Display assistant response in chat message container
         with st.chat_message("assistant"):
             st.markdown(last_msg)
+            #
 
             if python_tool_result:
                 if python_tool_result.type == "plot":
