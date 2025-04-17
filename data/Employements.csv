@@ -1,0 +1,202 @@
+Employee ID,Effective Date,Role,Amount,Currency,Period,Frequency,Employment Type,Work Location,BM Median,Compa Ratio,Raise
+11645,1/1/2025,Tech Lead,14500,GBP,Monthly,Monthly,Full Time,London,11800,1.23,650
+59701,1/1/2025,Software Engineer,29500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,44000,0.67,1600
+79274,1/1/2025,QA Engineer,5000,GBP,Monthly,Monthly,Full Time,London,6100,0.82,250
+67153,1/1/2025,Controller,116000,USD,Annual,Monthly,Full Time,NYC,116500,1,5200
+85390,1/1/2025,Financial Analyst,17500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,22900,0.76,800
+51452,1/1/2025,Accountant,23500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,22500,1.04,1300
+91304,1/1/2025,HR Manager,29000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,25600,1.13,1450
+59865,1/1/2025,HR Specialist,4000,GBP,Monthly,Monthly,Full Time,London,4800,0.83,100
+77920,1/1/2025,Recruiter,57000,USD,Annual,Monthly,Full Time,NYC,59800,0.95,0
+53299,1/1/2025,Content Manager,6000,EUR,Monthly,Monthly,Full Time,Berlin,4400,1.36,350
+58195,1/1/2025,Marketing Specialist,6500,EUR,Monthly,Monthly,Full Time,Berlin,5300,1.23,150
+69229,1/1/2025,SEO Analyst,80000,USD,Annual,Monthly,Full Time,NYC,75300,1.06,4400
+25213,1/1/2025,UX Researcher,9500,GBP,Monthly,Monthly,Full Time,London,9200,1.03,500
+44382,1/1/2025,Product Manager,104500,USD,Annual,Monthly,Full Time,NYC,94800,1.1,5750
+86256,1/1/2025,Product Designer,38000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,25300,1.5,1900
+15448,1/1/2025,Sales Manager,7500,GBP,Monthly,Monthly,Full Time,London,7000,1.07,400
+62463,1/1/2025,SDR,5000,EUR,Monthly,Monthly,Full Time,Berlin,4200,1.19,200
+83819,1/1/2025,Account Executive,8000,EUR,Monthly,Monthly,Full Time,Berlin,5600,1.43,350
+93190,1/1/2025,SDR,4500,EUR,Monthly,Monthly,Full Time,Berlin,4600,0.98,200
+52319,1/1/2025,SDR,3500,EUR,Monthly,Monthly,Full Time,Berlin,4100,0.85,200
+62064,1/1/2025,SDR,5500,EUR,Monthly,Monthly,Full Time,Berlin,4200,1.31,100
+19707,1/1/2025,SDR,4000,EUR,Monthly,Monthly,Full Time,Berlin,4300,0.93,200
+53790,1/1/2025,SDR,23000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,18900,1.22,600
+86070,1/1/2025,SDR,52000,USD,Annual,Monthly,Full Time,NYC,62100,0.84,2600
+99681,1/1/2025,SDR,4500,EUR,Monthly,Monthly,Full Time,Berlin,4300,1.05,200
+55531,1/1/2025,SDR,77500,USD,Annual,Monthly,Full Time,NYC,66300,1.17,1550
+85881,1/1/2025,SDR,16000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,18400,0.87,700
+73227,1/1/2025,SDR,52500,USD,Annual,Monthly,Full Time,NYC,68100,0.77,2900
+98565,1/1/2025,SDR,77000,USD,Annual,Monthly,Full Time,NYC,61500,1.25,2300
+58984,1/1/2025,Account Executive,20000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,21500,0.93,1300
+52926,1/1/2025,Account Executive,7500,EUR,Monthly,Monthly,Full Time,Berlin,5700,1.32,400
+69865,1/1/2025,Account Executive,20000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,18600,1.08,700
+65366,1/1/2025,Account Executive,18000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,21200,0.85,1150
+15951,1/1/2025,Account Executive,4000,GBP,Monthly,Monthly,Full Time,London,6100,0.66,200
+25464,1/1/2025,Account Executive,7500,GBP,Monthly,Monthly,Full Time,London,6200,1.21,400
+78547,1/1/2025,Account Executive,72000,USD,Annual,Monthly,Full Time,NYC,73600,0.98,4300
+11064,1/1/2025,Account Executive,24500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,22400,1.09,750
+77938,1/1/2025,Account Executive,4000,EUR,Monthly,Monthly,Full Time,Berlin,5800,0.69,200
+43936,1/1/2025,Account Executive,6500,EUR,Monthly,Monthly,Full Time,Berlin,5900,1.1,300
+57076,1/1/2025,Account Executive,4500,EUR,Monthly,Monthly,Full Time,Berlin,6200,0.73,200
+86577,1/1/2025,Account Executive,5000,EUR,Monthly,Monthly,Full Time,Berlin,5900,0.85,150
+56386,1/1/2025,HR Specialist,60500,USD,Annual,Monthly,Full Time,NYC,58400,1.04,3050
+69195,1/1/2025,HR Specialist,6500,GBP,Monthly,Monthly,Full Time,London,5200,1.25,350
+40746,1/1/2025,HR Specialist,6500,EUR,Monthly,Monthly,Full Time,Berlin,6800,0.96,350
+14339,1/1/2025,HR Specialist,67500,USD,Annual,Monthly,Full Time,NYC,61900,1.09,3400
+40404,1/1/2025,HR Specialist,18500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,18000,1.03,1000
+14080,1/1/2025,Content Manager,19000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,17500,1.09,950
+76606,1/1/2025,Content Manager,70000,USD,Annual,Monthly,Full Time,NYC,66800,1.05,3150
+11714,1/1/2025,Content Manager,5000,GBP,Monthly,Monthly,Full Time,London,5100,0.98,250
+64791,1/1/2025,Content Manager,14500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,16100,0.9,750
+29745,1/1/2025,Content Manager,3000,EUR,Monthly,Monthly,Full Time,Berlin,4400,0.68,150
+43746,1/1/2025,Content Manager,20000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,16300,1.23,600
+32916,1/1/2025,Content Manager,14500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,17800,0.81,500
+25316,1/1/2025,Marketing Specialist,6000,GBP,Monthly,Monthly,Full Time,London,5200,1.15,200
+32648,1/1/2025,Marketing Specialist,5500,GBP,Monthly,Monthly,Full Time,London,5400,1.02,300
+67549,1/1/2025,Marketing Specialist,23000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,19900,1.16,1150
+20156,1/1/2025,Marketing Specialist,15000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,23700,0.63,750
+23198,1/1/2025,Marketing Specialist,6000,GBP,Monthly,Monthly,Full Time,London,5100,1.18,300
+28856,1/1/2025,Marketing Specialist,5000,GBP,Monthly,Monthly,Full Time,London,5200,0.96,250
+33598,1/1/2025,Marketing Specialist,5000,GBP,Monthly,Monthly,Full Time,London,5900,0.85,300
+69256,1/1/2025,Marketing Specialist,4000,EUR,Monthly,Monthly,Full Time,Berlin,4800,0.83,100
+98250,1/1/2025,Marketing Specialist,72000,USD,Annual,Monthly,Full Time,NYC,66900,1.08,2500
+98074,1/1/2025,Marketing Specialist,27500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,22100,1.24,400
+65155,1/1/2025,Marketing Specialist,21500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,19700,1.09,550
+34832,1/1/2025,HR Manager,6500,GBP,Monthly,Monthly,Full Time,London,6600,0.98,350
+43710,1/1/2025,HR Manager,22500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,27100,0.83,1450
+24139,1/1/2025,HR Manager,9000,EUR,Monthly,Monthly,Full Time,Berlin,8100,1.11,450
+91081,1/1/2025,HR Manager,98000,USD,Annual,Monthly,Full Time,NYC,106600,0.92,4900
+39793,1/1/2025,HR Manager,33500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,27600,1.21,650
+59481,1/1/2025,HR Manager,111000,USD,Annual,Monthly,Full Time,NYC,95700,1.16,5550
+16556,1/1/2025,HR Manager,6000,GBP,Monthly,Monthly,Full Time,London,6300,0.95,300
+94187,1/1/2025,HR Manager,6500,EUR,Monthly,Monthly,Full Time,Berlin,7400,0.88,150
+96990,1/1/2025,HR Manager,87500,USD,Annual,Monthly,Full Time,NYC,104000,0.84,900
+96845,1/1/2025,HR Manager,27000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,29400,0.92,950
+45018,1/1/2025,Tech Lead,11000,EUR,Monthly,Monthly,Full Time,Berlin,12800,0.86,600
+59539,1/1/2025,Tech Lead,174000,USD,Annual,Monthly,Full Time,NYC,177700,0.98,7850
+27049,1/1/2025,Tech Lead,44500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,46600,0.95,2450
+19121,1/1/2025,Tech Lead,9000,GBP,Monthly,Monthly,Full Time,London,10600,0.85,450
+60133,1/1/2025,Tech Lead,30500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,44200,0.69,1200
+64545,1/1/2025,Tech Lead,9500,GBP,Monthly,Monthly,Full Time,London,11900,0.8,500
+11378,1/1/2025,Tech Lead,12000,GBP,Monthly,Monthly,Full Time,London,12100,0.99,550
+43877,1/1/2025,Tech Lead,174000,USD,Annual,Monthly,Full Time,NYC,155900,1.12,8700
+54335,1/1/2025,Tech Lead,167500,USD,Annual,Monthly,Full Time,NYC,156500,1.07,7550
+56752,1/1/2025,Tech Lead,50500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,39200,1.29,2800
+64557,1/1/2025,Tech Lead,10500,EUR,Monthly,Monthly,Full Time,Berlin,12300,0.85,400
+72486,1/1/2025,Tech Lead,48500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,42800,1.13,1700
+94067,1/1/2025,Tech Lead,153500,USD,Annual,Monthly,Full Time,NYC,153800,1,4600
+56330,1/1/2025,Tech Lead,14500,EUR,Monthly,Monthly,Full Time,Berlin,11000,1.32,350
+13493,1/1/2025,Tech Lead,12500,EUR,Monthly,Monthly,Full Time,Berlin,11900,1.05,450
+53097,1/1/2025,Financial Analyst,27500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,20500,1.34,1500
+80945,1/1/2025,Financial Analyst,23000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,23200,0.99,600
+14779,1/1/2025,Financial Analyst,5500,GBP,Monthly,Monthly,Full Time,London,5200,1.06,300
+35515,1/1/2025,Financial Analyst,17000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,23300,0.73,600
+29645,1/1/2025,Financial Analyst,25000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,20600,1.21,1250
+70411,1/1/2025,Financial Analyst,5500,EUR,Monthly,Monthly,Full Time,Berlin,4900,1.12,300
+86849,1/1/2025,Financial Analyst,20500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,22100,0.93,1050
+27003,1/1/2025,Financial Analyst,7000,GBP,Monthly,Monthly,Full Time,London,5400,1.3,450
+31084,1/1/2025,Financial Analyst,6500,GBP,Monthly,Monthly,Full Time,London,5400,1.2,400
+41700,1/1/2025,Financial Analyst,5000,GBP,Monthly,Monthly,Full Time,London,5900,0.85,250
+80700,1/1/2025,Financial Analyst,6000,GBP,Monthly,Monthly,Full Time,London,5300,1.13,300
+92617,1/1/2025,Financial Analyst,4500,EUR,Monthly,Monthly,Full Time,Berlin,5400,0.83,250
+80056,1/1/2025,Financial Analyst,4500,GBP,Monthly,Monthly,Full Time,London,6000,0.75,100
+61024,1/1/2025,Financial Analyst,5500,GBP,Monthly,Monthly,Full Time,London,6000,0.92,150
+67441,1/1/2025,Software Engineer,143000,USD,Annual,Monthly,Full Time,NYC,102500,1.4,7150
+30094,1/1/2025,Software Engineer,96500,USD,Annual,Monthly,Full Time,NYC,110500,0.87,5300
+46898,1/1/2025,Software Engineer,47000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,45600,1.03,1650
+50003,1/1/2025,Software Engineer,12000,EUR,Monthly,Monthly,Full Time,Berlin,11400,1.05,550
+90756,1/1/2025,Software Engineer,8500,EUR,Monthly,Monthly,Full Time,Berlin,11800,0.72,450
+59354,1/1/2025,Software Engineer,90500,USD,Annual,Monthly,Full Time,NYC,116200,0.78,4050
+73903,1/1/2025,Software Engineer,13500,EUR,Monthly,Monthly,Full Time,Berlin,12000,1.13,600
+81211,1/1/2025,Software Engineer,9000,GBP,Monthly,Monthly,Full Time,London,9100,0.99,450
+56583,1/1/2025,Software Engineer,40000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,42300,0.95,2000
+13895,1/1/2025,Software Engineer,11000,EUR,Monthly,Monthly,Full Time,Berlin,11100,0.99,500
+64445,1/1/2025,Software Engineer,40000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,40100,1,800
+36848,1/1/2025,Software Engineer,51000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,41500,1.23,1000
+62976,1/1/2025,Recruiter,4500,GBP,Monthly,Monthly,Full Time,London,4700,0.96,250
+29025,1/1/2025,Recruiter,57000,USD,Annual,Monthly,Full Time,NYC,57300,0.99,3400
+71193,1/1/2025,Recruiter,6500,GBP,Monthly,Monthly,Full Time,London,4700,1.38,150
+72711,1/1/2025,Recruiter,4000,GBP,Monthly,Monthly,Full Time,London,5200,0.77,200
+91029,1/1/2025,Product Manager,7000,GBP,Monthly,Monthly,Full Time,London,9700,0.72,200
+21219,1/1/2025,Product Manager,9500,EUR,Monthly,Monthly,Full Time,Berlin,10300,0.92,450
+58525,1/1/2025,Product Manager,11500,EUR,Monthly,Monthly,Full Time,Berlin,9600,1.2,600
+83797,1/1/2025,Product Manager,9500,EUR,Monthly,Monthly,Full Time,Berlin,9300,1.02,350
+89905,1/1/2025,Product Manager,49000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,51500,0.95,2450
+68187,1/1/2025,Product Manager,10500,EUR,Monthly,Monthly,Full Time,Berlin,10500,1,450
+28926,1/1/2025,Product Manager,12500,GBP,Monthly,Monthly,Full Time,London,11000,1.14,300
+63321,1/1/2025,Product Manager,11000,GBP,Monthly,Monthly,Full Time,London,9500,1.16,550
+82289,1/1/2025,Product Manager,12500,GBP,Monthly,Monthly,Full Time,London,10600,1.18,700
+31209,1/1/2025,Product Manager,51000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,45800,1.11,1000
+75110,1/1/2025,Product Manager,8000,GBP,Monthly,Monthly,Full Time,London,9300,0.86,250
+18012,1/1/2025,Product Designer,125000,USD,Annual,Monthly,Full Time,NYC,105900,1.18,5000
+21652,1/1/2025,Product Designer,20500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,28400,0.72,900
+51808,1/1/2025,Product Designer,32500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,29500,1.1,1450
+35932,1/1/2025,Product Designer,76500,USD,Annual,Monthly,Full Time,NYC,106600,0.72,3850
+92771,1/1/2025,Product Designer,6000,EUR,Monthly,Monthly,Full Time,Berlin,5500,1.09,350
+51709,1/1/2025,Product Designer,20000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,27900,0.72,200
+82553,1/1/2025,Product Designer,91000,USD,Annual,Monthly,Full Time,NYC,92000,0.99,2300
+38786,1/1/2025,Controller,8000,GBP,Monthly,Monthly,Full Time,London,9600,0.83,500
+60609,1/1/2025,Controller,131000,USD,Annual,Monthly,Full Time,NYC,120400,1.09,8500
+83060,1/1/2025,Controller,10500,GBP,Monthly,Monthly,Full Time,London,9100,1.15,450
+66774,1/1/2025,Controller,131000,USD,Annual,Monthly,Full Time,NYC,106700,1.23,8500
+98194,1/1/2025,Controller,11000,EUR,Monthly,Monthly,Full Time,Berlin,9500,1.16,600
+46662,1/1/2025,Controller,48000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,50200,0.96,1700
+15344,1/1/2025,Controller,8000,GBP,Monthly,Monthly,Full Time,London,8700,0.92,200
+19739,1/1/2025,Controller,94000,USD,Annual,Monthly,Full Time,NYC,126900,0.74,3300
+44592,1/1/2025,Controller,7500,EUR,Monthly,Monthly,Full Time,Berlin,9200,0.82,250
+55842,1/1/2025,Sales Manager,11500,EUR,Monthly,Monthly,Full Time,Berlin,8600,1.34,300
+46213,1/1/2025,Sales Manager,8000,EUR,Monthly,Monthly,Full Time,Berlin,8600,0.93,350
+84509,1/1/2025,Sales Manager,39500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,38200,1.03,2150
+12799,1/1/2025,Sales Manager,30500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,33300,0.92,1700
+47498,1/1/2025,Sales Manager,9500,EUR,Monthly,Monthly,Full Time,Berlin,9400,1.01,500
+84256,1/1/2025,Sales Manager,27500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,36600,0.75,1400
+78213,1/1/2025,Sales Manager,44000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,37600,1.17,1550
+74087,1/1/2025,Sales Manager,7500,EUR,Monthly,Monthly,Full Time,Berlin,7800,0.96,250
+33907,1/1/2025,Sales Manager,6500,EUR,Monthly,Monthly,Full Time,Berlin,8900,0.73,100
+69506,1/1/2025,QA Engineer,108500,USD,Annual,Monthly,Full Time,NYC,82400,1.32,5450
+50974,1/1/2025,QA Engineer,26000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,24100,1.08,1450
+10954,1/1/2025,QA Engineer,7500,EUR,Monthly,Monthly,Full Time,Berlin,7100,1.06,350
+17304,1/1/2025,QA Engineer,31500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,28700,1.1,1250
+20339,1/1/2025,QA Engineer,8000,GBP,Monthly,Monthly,Full Time,London,6400,1.25,500
+31696,1/1/2025,QA Engineer,23000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,23900,0.96,700
+53147,1/1/2025,QA Engineer,24000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,26300,0.91,1200
+79100,1/1/2025,QA Engineer,74000,USD,Annual,Monthly,Full Time,NYC,90700,0.82,2600
+22169,1/1/2025,QA Engineer,6500,GBP,Monthly,Monthly,Full Time,London,6900,0.94,150
+71381,1/1/2025,QA Engineer,65500,USD,Annual,Monthly,Full Time,NYC,84400,0.78,2950
+11343,1/1/2025,Accountant,6000,EUR,Monthly,Monthly,Full Time,Berlin,4500,1.33,350
+38312,1/1/2025,Accountant,5000,GBP,Monthly,Monthly,Full Time,London,5000,1,300
+84309,1/1/2025,Accountant,24000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,24100,1,1300
+15140,1/1/2025,Accountant,4500,GBP,Monthly,Monthly,Full Time,London,5200,0.87,250
+33007,1/1/2025,Accountant,5500,GBP,Monthly,Monthly,Full Time,London,4600,1.2,350
+59779,1/1/2025,Accountant,89000,USD,Annual,Monthly,Full Time,NYC,80400,1.11,4450
+71306,1/1/2025,Accountant,87000,USD,Annual,Monthly,Full Time,NYC,88900,0.98,3900
+92119,1/1/2025,Accountant,4000,EUR,Monthly,Monthly,Full Time,Berlin,4800,0.83,200
+38278,1/1/2025,Accountant,5000,EUR,Monthly,Monthly,Full Time,Berlin,4600,1.09,250
+30600,1/1/2025,Accountant,83500,USD,Annual,Monthly,Full Time,NYC,80000,1.04,3750
+83669,1/1/2025,Accountant,81500,USD,Annual,Monthly,Full Time,NYC,86900,0.94,2450
+53446,1/1/2025,Accountant,4000,GBP,Monthly,Monthly,Full Time,London,4600,0.87,100
+43327,1/1/2025,Accountant,3500,EUR,Monthly,Monthly,Full Time,Berlin,4300,0.81,50
+91659,1/1/2025,SEO Analyst,6000,EUR,Monthly,Monthly,Full Time,Berlin,5700,1.05,100
+49246,1/1/2025,SEO Analyst,21000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,19100,1.1,1050
+96387,1/1/2025,SEO Analyst,16000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,19600,0.82,800
+37494,1/1/2025,SEO Analyst,6000,GBP,Monthly,Monthly,Full Time,London,5600,1.07,400
+38919,1/1/2025,SEO Analyst,81500,USD,Annual,Monthly,Full Time,NYC,68600,1.19,5300
+47967,1/1/2025,SEO Analyst,58000,USD,Annual,Monthly,Full Time,NYC,70600,0.82,2900
+56431,1/1/2025,SEO Analyst,5000,GBP,Monthly,Monthly,Full Time,London,5100,0.98,250
+24181,1/1/2025,SEO Analyst,5500,EUR,Monthly,Monthly,Full Time,Berlin,5800,0.95,50
+87838,1/1/2025,SEO Analyst,6500,EUR,Monthly,Monthly,Full Time,Berlin,6100,1.07,50
+88294,1/1/2025,SEO Analyst,65000,USD,Annual,Monthly,Full Time,NYC,77200,0.84,3250
+87283,1/1/2025,SEO Analyst,76500,USD,Annual,Monthly,Full Time,NYC,65700,1.16,2700
+82037,1/1/2025,SEO Analyst,23500,ILS,Monthly,Monthly,Full Time,Tel-Aviv,21000,1.12,250
+86246,1/1/2025,UX Researcher,11000,EUR,Monthly,Monthly,Full Time,Berlin,8000,1.38,600
+40851,1/1/2025,UX Researcher,9500,GBP,Monthly,Monthly,Full Time,London,8200,1.16,500
+41593,1/1/2025,UX Researcher,6500,EUR,Monthly,Monthly,Full Time,Berlin,9000,0.72,400
+76560,1/1/2025,UX Researcher,23000,ILS,Monthly,Monthly,Full Time,Tel-Aviv,22400,1.03,700
+79322,1/1/2025,UX Researcher,9500,GBP,Monthly,Monthly,Full Time,London,9200,1.03,500
+58401,1/1/2025,UX Researcher,112500,USD,Annual,Monthly,Full Time,NYC,117300,0.96,3950
+95107,1/1/2025,UX Researcher,7500,EUR,Monthly,Monthly,Full Time,Berlin,8400,0.89,200
+20893,1/1/2025,UX Researcher,124000,USD,Annual,Monthly,Full Time,NYC,127600,0.97,3700
+21941,1/1/2025,UX Researcher,7000,GBP,Monthly,Monthly,Full Time,London,7700,0.91,250
+36731,1/1/2025,UX Researcher,6500,GBP,Monthly,Monthly,Full Time,London,8200,0.79,250
+92551,1/1/2025,,,,,,,,,,

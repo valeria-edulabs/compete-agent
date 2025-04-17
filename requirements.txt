@@ -1,0 +1,15 @@
+pandas
+streamlit
+langchain
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-aws
+langchain-experimental
+langsmith
+plotly
+boto3
+python-dotenv
+tabulate
+langgraph
+pydantic
